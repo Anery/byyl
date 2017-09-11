@@ -1,0 +1,18 @@
+﻿生成启动时间为 2017/6/12 15:51:31。
+     1>项目“E:\software\VS2013program\compiler\compiler\compiler.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\软件\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt grammar.cpp
+         grammar.cpp
+     1>e:\software\vs2013program\compiler\compiler\grammar.cpp(78): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\software\vs2013program\compiler\compiler\grammar.cpp(87): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\software\vs2013program\compiler\compiler\grammar.cpp(1067): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\software\vs2013program\compiler\compiler\grammar.cpp(1073): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\software\vs2013program\compiler\compiler\grammar.cpp(1127): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         E:\软件\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\software\VS2013program\compiler\Debug\compiler.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\software\VS2013program\compiler\Debug\compiler.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\software\VS2013program\compiler\Debug\compiler.lib" /MACHINE:X86 Debug\grammar.obj
+         compiler.vcxproj -> E:\software\VS2013program\compiler\Debug\compiler.exe
+     1>已完成生成项目“E:\software\VS2013program\compiler\compiler\compiler.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.41
